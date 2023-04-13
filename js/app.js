@@ -6,4 +6,5 @@ inputs.forEach(input => {
     input.addEventListener("blur", (evento) => {
         valida(evento.target);
     })
+
 })
